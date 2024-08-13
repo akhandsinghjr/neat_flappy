@@ -26,11 +26,3 @@ of neural networks simultaneously, making it well-suited for problems where the 
 structure is not known a priori. In our project, we utilized NEAT to evolve the neural network
 controlling the behavior of the AI agent, allowing it to adapt and improve its gameplay strategy
 through successive generations of evolution.
-
-## Contributors
-
-Aman Vaibhav Jha
-
-Ammar Ahmad
-
-Akash Sinha
